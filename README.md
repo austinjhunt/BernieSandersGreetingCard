@@ -3,11 +3,11 @@ This was my first major python graphics project. I got lost in python code for a
 
 ## How to use:
 
-1) open terminal (Command Prompt)
+1) open Terminal (Command Prompt)
 
-2) clone the repository ('git clone https://github.com/austinjhunt/BernieSandersGreetingCard.git')
+2) Clone the repository ('git clone https://github.com/austinjhunt/BernieSandersGreetingCard.git')
 
-3) navigate to the BernieSandersGreetingCard directory ('cd BernieSandersGreetingCard')
+3) Navigate to the BernieSandersGreetingCard directory ('cd BernieSandersGreetingCard')
 
-4) use the command 'python valentineGreeting.py' to execute the file!
+4) Use the command 'python valentineGreeting.py' to execute the file!
 
