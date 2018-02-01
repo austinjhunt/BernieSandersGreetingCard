@@ -5,9 +5,9 @@ This was my first major python graphics project. I got lost in python code for a
 
 1) open terminal
 
-2)clone the repository
+2) clone the repository
 
-3)navigate to the BernieSandersGreetingCard directory ('cd BernieSandersGreetingCard')
+3) navigate to the BernieSandersGreetingCard directory ('cd BernieSandersGreetingCard')
 
-4)use the command 'python valentineGreeting.py' to execute the file!
+4) use the command 'python valentineGreeting.py' to execute the file!
 
