@@ -3,7 +3,7 @@ This was my first major python graphics project. I got lost in python code for a
 
 ## How to use:
 
-1) open terminal
+1) open terminal (Command Prompt)
 
 2) clone the repository ('git clone https://github.com/austinjhunt/BernieSandersGreetingCard.git')
 
