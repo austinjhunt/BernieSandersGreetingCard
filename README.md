@@ -5,7 +5,7 @@ This was my first major python graphics project. I got lost in python code for a
 
 1) open terminal
 
-2) clone the repository
+2) clone the repository ('git clone https://github.com/austinjhunt/BernieSandersGreetingCard.git')
 
 3) navigate to the BernieSandersGreetingCard directory ('cd BernieSandersGreetingCard')
 
